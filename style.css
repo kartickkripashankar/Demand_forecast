@@ -1,0 +1,72 @@
+[data-testid="metric-container"]{
+
+    /* background-color: #EEEEEE;
+    border: 2px solid #CCCCCC;
+    padding: 5% 5% 5% 10%;
+    border-radius: 5px;
+    margin-top: 5px; */
+
+    /* background-color: #ffffff;
+ border: 2px solid;
+ padding: 20px 20px 20px 20px;
+ border-radius: 10px;
+ color: green;
+ box-shadow: 10px; */
+
+ background-color: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    padding: 5% 5% 5% 10%;
+    border-radius: 5px;
+    
+    border-left: 0.5rem solid green !important;
+    box-shadow: 0 0.15rem 1.75rem 0 rgba(222, 222, 222, 0.15) !important;
+    color: green;
+}
+
+
+div.css-is62zv.e1tzin5v0{
+    border: 2px solid;
+    color: green;
+}
+/* [data-testid="stVerticalBlock"]{
+    
+    border: 2px solid;
+    color: green;
+} */
+
+.css-1a32fsj.e19lei0e0{
+    align-items: center;
+    box-shadow: 10px;
+}
+
+[data-testid="stArrowVegaLiteChart"]{
+    border:1px ;
+    color: green;
+    align-self: center;
+    
+}
+
+[data-testid="stImage"]{
+    margin-top: -42px;
+}
+
+div.css-1awkbkn.e1tzin5v0{
+    box-shadow: rgba(255, 255, 255, 0.15) 1.95px 1.95px 2.6px !important;
+    border-radius: 5px;
+    border: 1px solid #CCCCCC;
+    /* padding: 5% 5% 5% 10%; */
+    padding-top: 13px;
+    padding-left: 10px;
+    border-left: 0.5rem solid green !important;
+    
+    
+}
+
+div.bk{
+    width: 590px;
+}
+
+#bokeh-chart-fe0b9288a91d2a895aa20d083b031a24{
+    width: 590px;
+
+}
