@@ -30,7 +30,7 @@ fastjsonschema==2.16.3
 Fiona==1.9.2
 fonttools==4.38.0
 geopandas==0.10.2
-geos==0.2.0
+geos==3.3
 gitdb==4.0.10
 GitPython==3.1.31
 h11==0.14.0
