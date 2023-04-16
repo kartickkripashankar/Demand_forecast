@@ -106,7 +106,7 @@ def scrape_data(today, days_in):
 
 
 
-        driver = webdriver.Chrome(service=Service(),options=options)
+        driver = webdriver.Chrome(service=Service('chromedriver'),options=options)
 
         start_date = today + pd.Timedelta(days=1)
         end_date = today + pd.Timedelta(days=days_in + 1)
